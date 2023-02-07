@@ -1,0 +1,2094 @@
+fileFormatVersion: 2
+guid: 859b77bf1cf39de4e91b3f6b5f70634b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202e53a4badbfa44867504bcb31c2dd
+      internalID: 2047522541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287d2816c23733d4692836694c01d4a5
+      internalID: 543743820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ad310c1966614fbf1b0e23e022b61
+      internalID: -1758446307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ef367fbe4dce40a63ddaef44bed5d
+      internalID: -1115146161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c1ca4e501ae8243addbc5135b6cae5
+      internalID: -2107115105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9c6e4df96a20b4f9f30b1df9a9ff3e
+      internalID: 1555608386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d5d34f8e90a248a66b64f2947a669
+      internalID: 1581246380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03477c5b68349064c993be3786b0cefe
+      internalID: -1047750126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f18302a6c5db4491fb6a702ec4d0b
+      internalID: -1554615238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0af4dc78adafa458479cc155c1a4a1
+      internalID: -1539558527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c987772e32f751440b40e0e0181b6a08
+      internalID: 812590358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28949aa8cc98af41b92c67abeb4c3c6
+      internalID: 2006660071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa685297a1c0bc4092d6acb7effa202
+      internalID: 1709532516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a15e32918a4d94382d5044c34a3076
+      internalID: -1313256120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e640de88655eb45bdc1789f7b51936
+      internalID: 1021417930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddeef4569cdbbd43aa5fd439d1b3439
+      internalID: -544590768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b94419f9d18a634387c92d56fe93539
+      internalID: 309996224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f3c0095e780641bb5751efd3cc5e2
+      internalID: -1878263772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ad9790e63b65b4abec7087722bac01
+      internalID: -1529737593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864b6afc1c487743b77ed2cdfbb1451
+      internalID: 612881781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b4d8895505a1b478cce984f043f48e
+      internalID: 557812286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f335b1d9061064ebd52b0ce2f5eecc
+      internalID: 208252589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27b75bc49dbfa4e8becab97de26c44
+      internalID: 539065821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef310a6fabe8804294eb790d35b649c
+      internalID: -1155108818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79682708946397d48b7daf86ea3b5054
+      internalID: 1609042932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81c2e4ac5ae4644a31fd2ae30ceed6
+      internalID: 2031057454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4846377c6d135824f989eec6c523a43d
+      internalID: 1346104061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd8d426ea6f59438c060b957fa1bb8
+      internalID: -1084140575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa4aa3a467b57745a6a7cdec3a5e790
+      internalID: 656921580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d9f5c73848a2747a53ccb8396c6ae2
+      internalID: 384094443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d119d694cb9a84092d57d1ee9052c9
+      internalID: -1693159689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87591bad84c243848a3e89913d06aba8
+      internalID: -1910308469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4442460fbbfd6e246896b270921cd0fe
+      internalID: 140884328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5819eaf92840f144838f68f9ce933c7
+      internalID: 870880946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a14bf299695d3349b5e27ffdeea9f0d
+      internalID: -303652879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d5e307d8edade4dbe9f6d8be23157d
+      internalID: -19106261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3942e51df74e4193e4ef3cbd532d6
+      internalID: -1931897677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc62b993af8ee469fd8227e26b4cb7
+      internalID: 280753550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc74396ed4f3014282abff835e899d2
+      internalID: -2100338370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c455794d0f4404ea571d575780802f
+      internalID: -108009262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037ba111417cd14a80b0680c01c0de3
+      internalID: 2142683677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca59e89c8e3b194183a24236714dfc4
+      internalID: 142587946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e120efd40305fd34a8d6dccbf069e548
+      internalID: 1068063787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_43
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba802c0b6120674b8140acfe541d76d
+      internalID: -94273368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_44
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd2cff64ec25b4cab921e1d99fc658
+      internalID: 100386722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e990e070de40b4b8c1be01f17322b0
+      internalID: 811664972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b374feca19e0374ca39d49fba343c3b
+      internalID: 153341021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b8382b03cc6a642b85a617ebbc9751
+      internalID: -2027897220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea8c8bae998c24084ee12f8cb550d8
+      internalID: 1983497345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e4256ebb4446489c98530adae1b05
+      internalID: 1470136876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2716563ab57926e4ea6f49010eccfc03
+      internalID: 472152759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee56f59d3b09a34cb2d7c41deb5f252
+      internalID: 1485493885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f043c470a493a5149a4416ab96c2f32a
+      internalID: 972143045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360f2f41689af34288d82a21031ffd4
+      internalID: 1188568206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76dda49b9f1b645ae3074fc2cee8a8
+      internalID: -1929835694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec7a6b4f606416449d1b3e2463da655
+      internalID: 1423371517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f27145201cacc04fb80bb01a1e638f4
+      internalID: 1257504718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a46c890dfe55c4fb0be39682514830
+      internalID: 1183502754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb8266e923d2d47b91272da915ecbc
+      internalID: 1109324807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a0d1d20f7b0248b027a736dfeb761
+      internalID: -443289762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92648eeb293875849a22f0cf5545e6a8
+      internalID: 1360412319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be97211bff90f4d88e14a73f61e81b
+      internalID: -721385444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0490f7e40e74d1a45b1ebdf9ca675c45
+      internalID: -1405304899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7902db16e6260364cb6cc80ccbb8b508
+      internalID: -17326683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3aa9f63408b641907c314eecf58be
+      internalID: 32531268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49255544a59799044876199f4bc7583f
+      internalID: -921741970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc9e77c75cc9904683a5ac0a6ab8e8f
+      internalID: -1454261515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 312
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e78ba7e5246b419ed68ae017e4c53
+      internalID: 1313673128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8f78b65a35f4f4e964cb67be372a0a
+      internalID: 1367365036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4cab5fc1d6687429cc6cd477706e52
+      internalID: -1817296186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff95d09bb21da4794b7d0e2e442c71
+      internalID: -23266878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bcadb9fee32eb40af33b7470f0485b
+      internalID: -880098772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da7f29ea3ce92479cfeed641aca28c
+      internalID: -1625107104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ead321ef00dc47aeac2eb588c2d77
+      internalID: 1303048214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769d6b39c5645149870bce2d8a7e725
+      internalID: -181073264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def41e3ee5b7cf84caca10b4e7f8e4d1
+      internalID: 1131234789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee82fc1e8d5fd47a9b75e926a9d05c
+      internalID: -178176874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555b48e8fd693f4099e9d806835c055
+      internalID: -229239823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 272
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca84ea0af6df04e9d5768b29011dfb
+      internalID: -619847761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5079b1df113596a46966623c552fd021
+      internalID: 1780042779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_84
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea22c8152cb9f4985b39692764fdf8
+      internalID: -1311491507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-3_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8427d5bf9c32424cba6578fb742a4a6
+      internalID: -362353116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sonic-3_113: 1123561116
+      sonic-3_197: -1845402398
+      sonic-3_85: -362353116
+      sonic-3_24: 1609042932
+      sonic-3_39: -108009262
+      sonic-3_68: 1367365036
+      sonic-3_38: -2100338370
+      sonic-3_116: -1195937032
+      sonic-3_36: -1931897677
+      sonic-3_77: 1303048214
+      sonic-3_153: 673823996
+      sonic-3_21: 208252589
+      sonic-3_175: 1772365660
+      sonic-3_178: -180388202
+      sonic-3_3: -1115146161
+      sonic-3_195: 1366888825
+      sonic-3_67: 1313673128
+      sonic-3_78: -181073264
+      sonic-3_114: -1176379835
+      sonic-3_188: 1071456161
+      sonic-3_194: 1022489854
+      sonic-3_159: -1216504
+      sonic-3_92: 196873736
+      sonic-3_65: -921741970
+      sonic-3_204: -1531972638
+      sonic-3_160: -1815510975
+      sonic-3_180: 1454475233
+      sonic-3_164: 943139544
+      sonic-3_119: -2107233594
+      sonic-3_31: -1910308469
+      sonic-3_94: 768420712
+      sonic-3_10: 812590358
+      sonic-3_100: 222863062
+      sonic-3_120: 405403055
+      sonic-3_145: -1031457434
+      sonic-3_225: 2142815963
+      sonic-3_121: -1650324090
+      sonic-3_45: 811664972
+      sonic-3_211: 1956036383
+      sonic-3_167: -1682338575
+      sonic-3_198: -501838439
+      sonic-3_74: -1130154517
+      sonic-3_201: -529119103
+      sonic-3_80: -178176874
+      sonic-3_66: -1454261515
+      sonic-3_70: -23266878
+      sonic-3_41: 142587946
+      sonic-3_53: 1188568206
+      sonic-3_189: 1594236384
+      sonic-3_60: 1360412319
+      sonic-3_144: 479463019
+      sonic-3_44: 100386722
+      sonic-3_209: -124311413
+      sonic-3_49: 1470136876
+      sonic-3_155: -203533514
+      sonic-3_196: -1558798662
+      sonic-3_76: -1625107104
+      sonic-3_25: 2031057454
+      sonic-3_9: -1539558527
+      sonic-3_218: -413995595
+      sonic-3_14: 1021417930
+      sonic-3_107: -1149896942
+      sonic-3_133: 828054427
+      sonic-3_186: -546167435
+      sonic-3_158: -319265049
+      sonic-3_183: -2106048346
+      sonic-3_115: 933300432
+      sonic-3_217: -951139087
+      sonic-3_130: -416106508
+      sonic-3_8: -1554615238
+      sonic-3_91: -378585332
+      sonic-3_222: 1335370103
+      sonic-3_128: 915467638
+      sonic-3_151: -286090154
+      sonic-3_47: -2027897220
+      sonic-3_112: 2140145714
+      sonic-3_191: -857443768
+      sonic-3_71: 2144985509
+      sonic-3_208: 1978296839
+      sonic-3_88: -997647307
+      sonic-3_34: -303652879
+      sonic-3_86: -1668472796
+      sonic-3_15: -544590768
+      sonic-3_43: -94273368
+      sonic-3_207: -749483490
+      sonic-3_93: 596755171
+      sonic-3_69: -1817296186
+      sonic-3_18: -1529737593
+      sonic-3_135: -944028323
+      sonic-3_148: 1231078636
+      sonic-3_99: -138736825
+      sonic-3_127: -1984011326
+      sonic-3_64: 32531268
+      sonic-3_223: -1091695029
+      sonic-3_147: 1437192800
+      sonic-3_29: 384094443
+      sonic-3_142: 992666084
+      sonic-3_1: 543743820
+      sonic-3_27: -1084140575
+      sonic-3_187: 1620686730
+      sonic-3_95: -779168420
+      sonic-3_221: -379539189
+      sonic-3_0: 2047522541
+      sonic-3_32: 140884328
+      sonic-3_216: 1844123028
+      sonic-3_214: 1903476471
+      sonic-3_5: 1555608386
+      sonic-3_98: 1249896058
+      sonic-3_137: -1641007440
+      sonic-3_56: 1257504718
+      sonic-3_89: 782083030
+      sonic-3_138: 1949305557
+      sonic-3_118: -572827404
+      sonic-3_176: -89088941
+      sonic-3_179: -941455591
+      sonic-3_37: 280753550
+      sonic-3_19: 612881781
+      sonic-3_110: -438324032
+      sonic-3_200: 329751175
+      sonic-3_33: 870880946
+      sonic-3_184: -1418903311
+      sonic-3_181: 1477824853
+      sonic-3_134: 1458995764
+      sonic-3_7: -1047750126
+      sonic-3_185: -731466173
+      sonic-3_123: -775118122
+      sonic-3_87: 247202005
+      sonic-3_96: -652926458
+      sonic-3_117: -429984707
+      sonic-3_23: -1155108818
+      sonic-3_172: -1862062550
+      sonic-3_161: 1570050956
+      sonic-3_154: -1930333774
+      sonic-3_140: 1484697421
+      sonic-3_224: -1997911026
+      sonic-3_11: 2006660071
+      sonic-3_190: 696154122
+      sonic-3_58: 1109324807
+      sonic-3_52: 972143045
+      sonic-3_51: 1485493885
+      sonic-3_212: 977816450
+      sonic-3_12: 1709532516
+      sonic-3_205: -235247566
+      sonic-3_50: 472152759
+      sonic-3_166: 449486099
+      sonic-3_215: 1081416428
+      sonic-3_109: 865938631
+      sonic-3_199: -1692282573
+      sonic-3_16: 309996224
+      sonic-3_171: -181941357
+      sonic-3_174: 1504973799
+      sonic-3_125: -1621489833
+      sonic-3_4: -2107115105
+      sonic-3_139: 1365961546
+      sonic-3_143: -1036808595
+      sonic-3_219: -1272511060
+      sonic-3_163: 451095302
+      sonic-3_220: -638815130
+      sonic-3_26: 1346104061
+      sonic-3_55: 1423371517
+      sonic-3_141: 1891721657
+      sonic-3_157: -1604817774
+      sonic-3_28: 656921580
+      sonic-3_105: -101747757
+      sonic-3_132: -424267104
+      sonic-3_193: -1547735489
+      sonic-3_59: -443289762
+      sonic-3_81: -229239823
+      sonic-3_210: -2143749029
+      sonic-3_40: 2142683677
+      sonic-3_122: -1426566238
+      sonic-3_35: -19106261
+      sonic-3_13: -1313256120
+      sonic-3_131: -506476380
+      sonic-3_75: -880098772
+      sonic-3_103: -1863428911
+      sonic-3_149: -999148785
+      sonic-3_173: 201792219
+      sonic-3_73: -762983612
+      sonic-3_22: 539065821
+      sonic-3_30: -1693159689
+      sonic-3_6: 1581246380
+      sonic-3_63: -17326683
+      sonic-3_206: 1754367307
+      sonic-3_126: 1279664211
+      sonic-3_129: 1116579639
+      sonic-3_168: 505824032
+      sonic-3_84: -1311491507
+      sonic-3_124: -193579736
+      sonic-3_48: 1983497345
+      sonic-3_57: 1183502754
+      sonic-3_152: 861784761
+      sonic-3_20: 557812286
+      sonic-3_72: -944547945
+      sonic-3_54: -1929835694
+      sonic-3_2: -1758446307
+      sonic-3_165: -937065579
+      sonic-3_62: -1405304899
+      sonic-3_156: -1061455421
+      sonic-3_104: -2117076817
+      sonic-3_150: -1859862248
+      sonic-3_213: 819693826
+      sonic-3_170: -818930427
+      sonic-3_169: -415805256
+      sonic-3_61: -721385444
+      sonic-3_108: -1941195376
+      sonic-3_17: -1878263772
+      sonic-3_203: 375743279
+      sonic-3_162: 147561036
+      sonic-3_79: 1131234789
+      sonic-3_192: 996882733
+      sonic-3_101: -33520730
+      sonic-3_106: -1642450640
+      sonic-3_42: 1068063787
+      sonic-3_111: -1533016182
+      sonic-3_82: -619847761
+      sonic-3_136: 700896189
+      sonic-3_83: 1780042779
+      sonic-3_202: 646697428
+      sonic-3_46: 153341021
+      sonic-3_90: -1578177165
+      sonic-3_182: 3644595
+      sonic-3_97: 654782559
+      sonic-3_102: -1631944267
+      sonic-3_146: -651543355
+      sonic-3_177: 773458625
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
