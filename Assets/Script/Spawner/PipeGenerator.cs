@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PipeGenerator : ObjectPool
@@ -20,7 +18,7 @@ public class PipeGenerator : ObjectPool
     {
         _elapsedTime += Time.deltaTime;
 
-        if(_elapsedTime >= _secondsBetweenSpawn)
+        if (_elapsedTime >= _secondsBetweenSpawn)
         {
             if (TryGetObject(out GameObject gameObject))
             {

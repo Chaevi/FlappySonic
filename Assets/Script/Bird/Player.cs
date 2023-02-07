@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -69,7 +67,7 @@ public class Player : MonoBehaviour
             else
             {
                 _particleSystem.maxParticles = _rings;
-                if(_rings > 20)
+                if (_rings > 20)
                     _particleSystem.maxParticles = 20;
                 _rings = 0;
                 RingsChanged?.Invoke(_rings);
